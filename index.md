@@ -134,17 +134,19 @@ It is available on [Sage Journals](https://journals.sagepub.com/doi/full/10.1177
 ![](/assets/poster.jpeg)
 ### Seminar 1: January 18, 2023
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/R5KmDo1vKpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/R5KmDo1vKpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 ### Seminar 2: February 1, 2023
-~~~<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hYT_6vdff6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
+<iframe src="https://www.youtube-nocookie.com/embed/hYT_6vdff6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 ### Seminar 3: February 15, 2023
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LHPu8Jk14gY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/LHPu8Jk14gY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 ### Seminar 4: March 1, 2023
-~~~<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/biLrnbT8d4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
+<iframe src="https://www.youtube-nocookie.com/embed/biLrnbT8d4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
 ## Memorials

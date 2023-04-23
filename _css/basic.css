@@ -111,7 +111,7 @@ instead, display a burger menu.
 */
 @media (max-width: 500px) {
   iframe {
-    max-width: 100%;
+    max-width: 450px;
     width: auto;
     height: auto;
   }
