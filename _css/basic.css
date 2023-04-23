@@ -110,6 +110,11 @@ narrow display: collapse the header (don't show the menu items)
 instead, display a burger menu.
 */
 @media (max-width: 500px) {
+  iframe {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+  }
   header {
     height: 35px;
     display: flex;
