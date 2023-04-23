@@ -100,7 +100,7 @@ B.A. Philosophy, Cum Laude and With Distinction, Sonoma State University, 1980
 
 **ACADEMIC EXPERIENCE**\\
 **University of South Carolina**\\
-Professor of Anthropology and Women’s & Gender Studies 2007 – present\\
+Professor of Anthropology and Women’s & Gender Studies 2007 – 2023\\
 **Hollins University**\\
 Professor of Economics and Women’s Studies 2000 - 2006\\
 Associate Professor of Economics 1992 - 1999\\
